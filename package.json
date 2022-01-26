@@ -1,0 +1,16 @@
+{
+    "name": "covidscraper",
+    "version": "1.0.0",
+    "description": "A scraper to detect covid appointment availibilities",
+    "main": "covidScraper.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "Omar Sourour",
+    "license": "MIT",
+    "dependencies": {
+        "jsdom": "^19.0.0",
+        "play-sound": "^1.1.5",
+        "puppeteer": "^13.0.1"
+    }
+}
